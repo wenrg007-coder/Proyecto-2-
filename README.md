@@ -78,6 +78,9 @@ Valid and out-of-range values
 Boundary, negative, and decimal inputs
 
 Alphabetic and special characters
+<img width="1464" height="667" alt="Captura de pantalla 2026-01-18 195212" src="https://github.com/user-attachments/assets/56f3ed9b-865a-499c-83ba-d0676853b620" />
+<img width="1457" height="604" alt="Captura de pantalla 2026-01-18 210148" src="https://github.com/user-attachments/assets/3a03f42c-2460-4399-8012-0618ae156ef9" />
+<img width="1457" height="622" alt="Captura de pantalla 2026-01-18 210220" src="https://github.com/user-attachments/assets/4a451e94-3820-4c65-baf4-d3e1d4678748" />
 
 🧠 Testing Strategy (What Recruiters Care About)
 
